@@ -1,7 +1,7 @@
 import random
 import time
 
-print("Hand Cricket - THE LEGACY")
+print("*******Hand Cricket - THE LEGACY*******")
 time.sleep(2)
 name = input("What should we call you? ")
 time.sleep(1)
